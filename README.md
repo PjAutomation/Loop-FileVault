@@ -1,7 +1,5 @@
 # Loop FileVault
 
-![Loop FileVault](loop-filevault.png)
-
 Portable smart file indexing utility developed by Loop Structural Automation.
 
 ## Features
